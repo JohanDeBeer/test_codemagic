@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "987895698805",
+    "firebase_url": "https://project-secretary.firebaseio.com",
+    "project_id": "project-secretary",
+    "storage_bucket": "project-secretary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987895698805:android:02c07aacffe9aeb8",
+        "android_client_info": {
+          "package_name": "com.example.test_codemagic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987895698805-ps9cd11etdqtphmmuqbr841ap8uc3lrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM8u-DpJA_fBiq2fvtpxVUkWred-KqkHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987895698805-ps9cd11etdqtphmmuqbr841ap8uc3lrl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "987895698805-02gumqu9hc9cu7vqqeje0kk564s30sj1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tritech.projsecadmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987895698805:android:58a1171bbf585caf",
+        "android_client_info": {
+          "package_name": "com.tritech.projsec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987895698805-ps9cd11etdqtphmmuqbr841ap8uc3lrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM8u-DpJA_fBiq2fvtpxVUkWred-KqkHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987895698805-ps9cd11etdqtphmmuqbr841ap8uc3lrl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "987895698805-02gumqu9hc9cu7vqqeje0kk564s30sj1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tritech.projsecadmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987895698805:android:4b9def31d3524ab6",
+        "android_client_info": {
+          "package_name": "com.tritech.projsecad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987895698805-ps9cd11etdqtphmmuqbr841ap8uc3lrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM8u-DpJA_fBiq2fvtpxVUkWred-KqkHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987895698805-ps9cd11etdqtphmmuqbr841ap8uc3lrl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "987895698805-02gumqu9hc9cu7vqqeje0kk564s30sj1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tritech.projsecadmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987895698805:android:68d89c764518d636",
+        "android_client_info": {
+          "package_name": "com.tritech.projsecadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987895698805-ps9cd11etdqtphmmuqbr841ap8uc3lrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM8u-DpJA_fBiq2fvtpxVUkWred-KqkHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987895698805-ps9cd11etdqtphmmuqbr841ap8uc3lrl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "987895698805-02gumqu9hc9cu7vqqeje0kk564s30sj1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tritech.projsecadmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
